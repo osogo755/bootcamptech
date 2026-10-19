@@ -1,0 +1,6 @@
+{
+  "name": "Callie Academy - Tech Bootcamp & Student Portal",
+  "description": "Next-generation tech bootcamp offering immersive programs in Software Engineering, Data Science, Cyber Security, Ethical Hacking, and Cloud Computing with comprehensive student progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
